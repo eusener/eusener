@@ -22,27 +22,27 @@ Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e o que tenh
 <img height="190" src="https://streak-stats.demolab.com?user=eusener&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=eusener&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=eusener&theme=discord&no-frame=true&no-bg=true&row=1&column=3" alt="Troféus" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eusener&theme=github-compact&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eusener&theme=github-compact&hide_border=true" alt="Minhas Atividades" />
 
 <!-- Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eusener&theme=github_dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eusener&theme=github_dark" alt="Detalhes do Perfil" />
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eusener&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eusener&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eusener&theme=github_dark" alt="Repos e Linguagens" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eusener&theme=github_dark" alt="Commits" />
 </div>
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eusener&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eusener&theme=github_dark&utcOffset=-3" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eusener&theme=github_dark" alt="Status" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eusener&theme=github_dark&utcOffset=-3" alt="Meu tempo produtivo" />
 </div>
 
 </div>
 
 ---
 
-## Tecnologias que utilizo
+## Um pouco das ferramentas que utilizo ... 
 
 <div align="center">
 
@@ -66,16 +66,23 @@ Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e o que tenh
 
 ---
 
-## Badges e Contatos
+## Me encontre nas redes:
 
-- GitHub: [@eusener](https://github.com/eusener)
-- LinkedIn: [/eusener](https://linkedin.com/in/eusener)
+<div align="center">
+
+  <!-- Badges de redes sociais -->
+  <a href="https://linkedin.com/in/eusener" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/eusener" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://github.com/eusener" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</div>
 
 ---
-
-
-<!--START_SECTION:readme-stats-->
-<img src="https://raw.githubusercontent.com/eusener/eusener/main/github-metrics.svg" alt="Metrics" />
-<!--END_SECTION:readme-stats-->
 
 
