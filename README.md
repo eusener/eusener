@@ -11,34 +11,45 @@ Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e o que tenh
 ---
 
 ## Estatísticas e Status
-<!--START_SECTION:readme-stats--> 
-<div align="center">
+<!--START_SECTION:readme-stats-->
+**🕒 I'm A Twilight Taskmaster 🌆**
 
-<!-- GitHub Readme Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eusener&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusener&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Top Languages" />
+```text
+🌅 Morning                0 commit            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00%
+🌞 Daytime                33 commits          █████████░░░░░░░░░░░░░░░░   36.26%
+🌆 Evening                36 commits          ██████████░░░░░░░░░░░░░░░   39.56%
+🌙 Night                  22 commits          ██████░░░░░░░░░░░░░░░░░░░   24.18%
+```
 
-<!-- Streak Stats -->
-<img height="190" src="https://streak-stats.demolab.com?user=eusener&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+**🔥 I Mostly Code in TypeScript**
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=eusener&theme=discord&no-frame=true&no-bg=true&row=1&column=3" alt="Troféus" />
+```text
+TypeScript               9 repos             ███████████░░░░░░░░░░░░░░   45.00%
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.00%
+C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.00%
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.00%
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00%
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00%
+Roff                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00%
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00%
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00%
+```
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eusener&theme=github-compact&hide_border=true" alt="Minhas Atividades" />
+**📅 I'm Most Productive on Wednesday**
 
-<!-- Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eusener&theme=github_dark" alt="Detalhes do Perfil" />
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eusener&theme=github_dark" alt="Repos e Linguagens" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eusener&theme=github_dark" alt="Commits" />
-</div>
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eusener&theme=github_dark" alt="Status" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eusener&theme=github_dark&utcOffset=-3" alt="Meu tempo produtivo" />
-</div>
+```text
+Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.89%
+Monday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.59%
+Tuesday                  13 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29%
+Wednesday                23 commits          ██████░░░░░░░░░░░░░░░░░░░   25.27%
+Thursday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.19%
+Friday                   17 commits          █████░░░░░░░░░░░░░░░░░░░░   18.68%
+Saturday                 11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09%
+```
 
-</div>
+
+
+⏳ *Last updated on 2025-09-22 19:45:43 +0000*
 <!--END_SECTION:readme-stats--> 
 ---
 
