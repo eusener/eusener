@@ -53,11 +53,6 @@ Saturday                 11 commits          ███░░░░░░░░�
 <!--END_SECTION:readme-stats--> 
 ---
 
-Here are my GitHub stats:
-<!--START_SECTION:readme-stats-->
-<!-- This content will be replaced by the GitHub Action -->
-<!--END_SECTION:readme-stats-->
-
 ## Um pouco das ferramentas que utilizo ... 
 
 <div align="center">
