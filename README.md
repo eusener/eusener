@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e o que tenh
 ---
 
 ## Estatísticas e Status
-
+<!--START_SECTION:readme-stats--> 
 <div align="center">
 
 <!-- GitHub Readme Stats -->
@@ -39,7 +39,7 @@ Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e o que tenh
 </div>
 
 </div>
-
+<!--END_SECTION:readme-stats--> 
 ---
 
 ## Um pouco das ferramentas que utilizo ... 
