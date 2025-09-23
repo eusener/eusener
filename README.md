@@ -3,8 +3,8 @@
 Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e o que tenho explorado no mundo da tecnologia.
 
 ## Sobre mim
-- 🔭 Atualmente trabalhando/estudando: novas stacks e boas práticas
-- 🌱 Aprendendo: tópicos avançados de desenvolvimento
+- 🔭 Atualmente trabalhando/estudando: com projetos em Python (Django, FastApi, Polars, etc ...)
+- 🌱 Aprendendo: Alpine.JS + ALpine-Ajax e React.js
 - 💬 Pergunte-me sobre: desenvolvimento web, automações e produtividade
 - 📫 Como me encontrar: [@eusener](https://github.com/eusener)
 
