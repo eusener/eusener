@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e o que tenh
 
 ## Sobre mim
 - 🔭 Atualmente trabalhando/estudando: com projetos em Python (Django, FastApi, Polars, etc ...) e Infra em cloud (AWS, Oracle).
-- 🌱 Aprendendo: Alpine.JS + ALpine-Ajax e React.js e Native.
+- 🌱 Aprendendo: Typescript, React.js e Native.
 - 💻 Já coloquei em produção projetos de dados com dbt, duckdb, projetos web com FastApi e Django, orquestrando o deploy com GitHub Actions.
 - 💬 Pergunte-me sobre: desenvolvimento web, automações, data science, devops e produtividade.
 - 📫 Como me encontrar: [@eusener](https://github.com/eusener).
