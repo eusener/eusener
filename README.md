@@ -16,42 +16,42 @@ Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e o que tenh
 **🕒 I'm A Twilight Taskmaster 🌆**
 
 ```text
-🌅 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.64%
-🌞 Daytime                189 commits         ███████░░░░░░░░░░░░░░░░░░   29.30%
-🌆 Evening                234 commits         █████████░░░░░░░░░░░░░░░░   36.28%
-🌙 Night                  205 commits         ████████░░░░░░░░░░░░░░░░░   31.78%
+🌅 Morning                26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.17%
+🌞 Daytime                254 commits         ████████░░░░░░░░░░░░░░░░░   31.01%
+🌆 Evening                301 commits         █████████░░░░░░░░░░░░░░░░   36.75%
+🌙 Night                  238 commits         ███████░░░░░░░░░░░░░░░░░░   29.06%
 ```
 
 **🔥 I Mostly Code in TypeScript**
 
 ```text
-TypeScript               16 repos            █████████░░░░░░░░░░░░░░░░   37.21%
-Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.60%
-PHP                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95%
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63%
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65%
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65%
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33%
-Roff                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33%
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33%
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33%
+TypeScript                12 repos            ███████░░░░░░░░░░░░░░░░░░   26.67%
+Python                    9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00%
+Markdown                  9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00%
+PHP                       6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
+HTML                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89%
+CSS                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22%
+JavaScript                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22%
+C#                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22%
+Dart                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22%
+Go                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22%
 ```
 
 **📅 I'm Most Productive on Thursday**
 
 ```text
-Sunday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78%
-Monday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78%
-Tuesday                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80%
-Wednesday                105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28%
-Thursday                 116 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98%
-Friday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80%
-Saturday                 94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57%
+Sunday                    85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38%
+Monday                    119 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53%
+Tuesday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92%
+Wednesday                 134 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36%
+Thursday                  138 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85%
+Friday                    131 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00%
+Saturday                  98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97%
 ```
 
 
 
-⏳ *Last updated on 2026-03-27 00:48:56 +0000*
+⏳ *Last updated on 2026-10-19 19:14:55 +0000*
 <!--END_SECTION:readme-stats--> 
 ---
 
